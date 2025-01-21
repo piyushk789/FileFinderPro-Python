@@ -19,7 +19,7 @@
 4️⃣ Click **Find** and get instant results!  
 
 ## 📦 Installation
-🔹 Download the **EXE file** from the [Releases Section](#FileFinderPro.v.1.1.exe) (for normal users, no Python required!).  
+🔹 Download the **EXE file** from the [Releases Section](FileFinderPro.v.1.1.exe) (for normal users, no Python required!).  
 🔹 Developers can clone this repository and run it using Python.  
 
 ```bash
