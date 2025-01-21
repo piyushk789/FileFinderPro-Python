@@ -35,10 +35,12 @@ python FileFinderPro.v.x.x.py
 ```
 
 ## 📷 Screenshots
-🌟 Version - 1.0
+🌟 Version - 0.8
+
 ![image](https://github.com/user-attachments/assets/74af6dd8-f713-4928-a637-6aaa3268a3ed)
 
 🌟 Version - 1.1
+
 ![image](https://github.com/user-attachments/assets/a31d8a9e-227c-47f4-8f64-6f1cfcc97b23)
 
 
