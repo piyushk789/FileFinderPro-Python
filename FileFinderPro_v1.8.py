@@ -1,3 +1,8 @@
+# Author : Kartikey Baghel
+# E-mail : kartikey.software@gmail.com
+# GitHub : https://github.com/piyushk789/FileFinderPro-Python.git
+# Website: https://worldoftechnologyscience.blogspot.com
+
 import os
 import json
 import time
